@@ -1,0 +1,57 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f4ff;
+    color: #333;
+}
+
+header {
+    background-color: #8261ca;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+.form-section {
+    padding: 2rem;
+    text-align: center;
+}
+
+textarea {
+    width: 90%;
+    height: 100px;
+    padding: 1rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+button {
+    background-color: #8261ca;
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    cursor: pointer;
+    margin: 0.5rem;
+}
+
+.popular-dreams, .premium-offer {
+    padding: 2rem;
+}
+
+.popular-dreams ul, .premium-offer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.popular-dreams li, .premium-offer li {
+    margin-bottom: 0.5rem;
+}
+
+footer {
+    background-color: #f0e8ff;
+    text-align: center;
+    padding: 1rem;
+    font-style: italic;
+}
